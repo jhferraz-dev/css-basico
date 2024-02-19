@@ -1,0 +1,27 @@
+html{
+    background-color: #ccc;
+    font-size: 50px;
+}
+
+/* 1 em = 16 pixels */
+
+/* quando damos valores no HTML o em se transforma no valor dado 
+nesse caso 1em = 50px */
+
+body{
+    background-color: green;
+    width: 50%;
+    font-size: 3em;
+}
+
+.pai{
+    background-color: aqua;
+    width: 50%;
+    font-size: 1.5em;
+}
+
+.filho{
+    background-color: violet;
+    width: 50%;
+    font-size: 1rem;
+}

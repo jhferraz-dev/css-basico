@@ -1,0 +1,14 @@
+.descrição-produto {
+    padding: 10px;
+    
+    color: black;
+    border: 20px solid;
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: yellowgreen;
+    border-bottom-color: yellowgreen;
+}
+
+.promocao{
+    background-color: aquamarine;
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0   ;
+}
+
+p{
+    margin: 20px;
+    padding: 20px 9px;
+    
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+    border: 20px solid yellowgreen
+}

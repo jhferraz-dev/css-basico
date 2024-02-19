@@ -1,0 +1,16 @@
+p{
+    margin: 30px;    
+    padding: 20px 9px;
+    background-color:aquamarine ;
+    
+    border: 20px solid black;
+}
+
+h1{
+    border: 15px solid;
+    border-top-color: yellowgreen ;
+    border-right-color: yellowgreen;
+    border-bottom-color: black ;
+    border-left-color: black ;
+    
+}   
